@@ -10,6 +10,6 @@ Education History
 
 Technical Skills (Languages, Tools, Frameworks)
 
-🌐 Links to LinkedIn, GitHub, and other professional platforms
+Links to LinkedIn, GitHub, and other professional platforms
 
-📱 Responsive Design (Mobile & Desktop Friendly)
+Responsive Design (Mobile & Desktop Friendly)
